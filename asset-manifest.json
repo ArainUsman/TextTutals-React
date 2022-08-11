@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTutals-React/static/css/main.073c9b0a.css",
+    "main.js": "/TextTutals-React/static/js/main.bcbd0f8b.js",
+    "static/js/787.da1c4c0c.chunk.js": "/TextTutals-React/static/js/787.da1c4c0c.chunk.js",
+    "index.html": "/TextTutals-React/index.html",
+    "main.073c9b0a.css.map": "/TextTutals-React/static/css/main.073c9b0a.css.map",
+    "main.bcbd0f8b.js.map": "/TextTutals-React/static/js/main.bcbd0f8b.js.map",
+    "787.da1c4c0c.chunk.js.map": "/TextTutals-React/static/js/787.da1c4c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bcbd0f8b.js"
+  ]
+}
